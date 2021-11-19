@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# too big file- Syng
+/src/img/marketing.*
+*.txt
+
 # testing
 /coverage
 
